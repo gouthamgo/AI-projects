@@ -62,7 +62,4 @@ I wanted to learn about AI, mental health, and how technology can help people. P
 - Inspired by the R U OK? campaign (ruok.org.au) for mental health awareness.
 - Built using open-source tools from Streamlit, OpenAI, and Hugging Face—thanks to these amazing communities!
 
-## 🚀 Contribute or Learn
-Feel free to reach out if you want to learn more about AI, mental health, or Streamlit apps. I’d love to hear your ideas on how Mood Buddy can grow! #AI #MentalHealth #RUOKDay #TechForGood
-
 
