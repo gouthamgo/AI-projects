@@ -65,5 +65,4 @@ I wanted to learn about AI, mental health, and how technology can help people. P
 ## 🚀 Contribute or Learn
 Feel free to reach out if you want to learn more about AI, mental health, or Streamlit apps. I’d love to hear your ideas on how Mood Buddy can grow! #AI #MentalHealth #RUOKDay #TechForGood
 
----
 
