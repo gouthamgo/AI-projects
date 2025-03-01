@@ -60,6 +60,4 @@ I wanted to learn about AI, mental health, and how technology can help people. P
 
 ## ❤️ Acknowledgements
 - Inspired by the R U OK? campaign (ruok.org.au) for mental health awareness.
-- Built using open-source tools from Streamlit, OpenAI, and Hugging Face—thanks to these amazing communities!
-
-
+- Built using open-source tools from Streamlit, OpenAI, and Hugging Face—thanks to these amazing communities
