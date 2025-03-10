@@ -17,7 +17,6 @@ The project is built with:
 - **Backend**: FastAPI for high-performance API endpoints and NLP-based data processing.
 - **Visualization**: Recharts for creating dynamic charts.
 
-This project is perfect for showcasing on LinkedIn or GitHub as a demonstration of full-stack development, API integration, and data analysis skills.
 
 ## Features
 
