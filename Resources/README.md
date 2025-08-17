@@ -122,7 +122,7 @@ import requests
 response = requests.get("https://jsonplaceholder.typicode.com/posts")
 data = response.json()
 print(data[0])
-
+```
 
 🤝 Contributing
 We welcome contributions! If you know a great free data source or want to improve this guide:
