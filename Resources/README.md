@@ -127,22 +127,22 @@ print(data[0])
 🤝 Contributing
 We welcome contributions! If you know a great free data source or want to improve this guide:
 
-Fork the repo
-Create a new branch (feature/add-dataset)
-Add your changes (with clear descriptions)
-Submit a pull request
-Please follow the Code of Conduct (if applicable).
+# Fork the repo
+- Create a new branch (feature/add-dataset)
+- Add your changes (with clear descriptions)
+- Submit a pull request
+- Please follow the Code of Conduct (if applicable).
 
-📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
-Note: This repository only links to data sources. We do not host or claim ownership of any dataset. Always comply with the terms of use of the original data providers. 
+## This project is just for learning purposes.
+
+## Note: This repository only links to data sources. We do not host or claim ownership of any dataset. Always comply with the terms of use of the original data providers. 
 
 🙌 Acknowledgments
-public-apis/public-apis
-Kaggle
-data.gov
-Open-source community contributors
+- public-apis/public-apis
+- Kaggle
+- data.gov
+- Open-source community contributors
 
 📌 Happy data hunting! Let’s build smarter, ethical, and impactful projects together. 🚀
 
@@ -157,4 +157,3 @@ Open-source community contributors
    - `/scripts/` – for scraping or API fetching code
 3. Add a `LICENSE` file (e.g., MIT) if you want to open-source the repo.
 
-Let me know if you’d like a version with badges, icons, or in another language!
