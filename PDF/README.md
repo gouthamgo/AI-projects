@@ -1,1 +1,0 @@
-# project with llama-index using pdfs
